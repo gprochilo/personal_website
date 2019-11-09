@@ -30,10 +30,10 @@ education:
   - course: PhD in Psychology
     institution: University of Melbourne
     year: 2015
-  - course: Bachelor of Science (Honours in Psychology)
+  - course: Bachelor of Science (Hons.)
     institution: University of Queensland
     year: 2013
-  - course: Dual Bachelors of Science (Psychology) & Business Management (Economics)
+  - course: Bachelor of Business Management
     institution: University of Queensland
     year: 2012
 
@@ -70,10 +70,9 @@ user_groups:
 - Visitors
 ---
 
+<p style="font-size:18px;"> Hi – I’m Guy. My current research focus is a <a href="https://psyarxiv.com/8w45k" target="_blank">pilot and feasibility trial</a> of an aerobic exercise and mindfulness-based intervention, where each training modality is completed concurrently. The goal of this project is to assess the feasibility of a definitive trial, and to examine its preliminary effect on chronic psychosocial stress in a nonclinical population.</p>  
 
-Hi – I’m Guy. My current research focus is a [pilot and feasibility trial](https://psyarxiv.com/8w45k) of an aerobic exercise and mindfulness-based intervention, where each training modality is completed concurrently. The goal of this project is to assess the feasibility of a definitive trial, and to examine its preliminary effect on chronic psychosocial stress in a nonclinical population.
+<p style="font-size:18px;"> I'm also an advocate for open science practices, reproducibility, and for taking a confidence interval approach to statistical inference. I'm proficient in R and have published an <a href="https://github.com/gprochilo/aha" target="_blank">R statistical package on GitHub</a>. I'm also interested in post-publication peer review, and have <a href="https://psyarxiv.com/hv3rm" target="_blank">published work</a> evaluating the use (and misuse) of statistics in organizational neuroscience.</p> 
 
-I'm also an advocate for open science practices, reproducibility, and for taking a confidence interval approach to statistical inference. I'm proficient in R and have published an [R statistical package on GitHub](https://github.com/gprochilo/aha). I'm also interested in post-publication peer review, and have [published work](https://psyarxiv.com/hv3rm) evaluating the use (and misuse) of statistics in organizational neuroscience. 
-
-Want to get in contact? Feel free to [message me on Twitter](https://twitter.com/messages/compose?recipient_id=1119310284) or [send me an email](mailto:guy.prochilo@gmail.com).
+<p style="font-size:18px;"> Want to get in contact? Feel free to <a href="https://twitter.com/messages/compose?recipient_id=1119310284" target="_blank">message me on Twitter</a> or <a href="mailto:guy.prochilo@gmail.com">send me an email</a>.</p>
 
