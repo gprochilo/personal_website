@@ -29,7 +29,7 @@ education:
   courses:
   - course: PhD in Psychology
     institution: University of Melbourne
-    year: 2015 -- present
+    year: 2015
   - course: Bachelor of Science (Honours in Psychology)
     institution: University of Queensland
     year: 2013
