@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Guy Prochilo
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,32 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: PhD (expected 2020)
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: University of Melbourne
+  url: "https://www.unimelb.edu.au/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
-interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+#interests:
+#- Artificial Intelligence
+#- Computational Linguistics
+#- Information Retrieval
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
+  - course: PhD in Psychology
+    institution: University of Melbourne
+    year: 2015 -- present
+  - course: Bachelor of Science (Honours in Psychology)
+    institution: University of Queensland
+    year: 2013
+  - course: Dual Bachelors of Science (Psychology) & Business Management (Economics)
+    institution: University of Queensland
     year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -56,9 +56,9 @@ social:
   link: https://github.com/gcushen
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+ - icon: cv
+   icon_pack: ai
+   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -70,6 +70,12 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+<span style="font-size:0.9em;">
+Hi – I’m Guy. I'm a PhD student in psychological science at the University of Melbourne. My current research focus is a pilot and feasibility trial of an aerobic exercise and mindfulness-based intervention, where each training modality is completed concurrently. The goal of this project is to assess the feasibility of a definitive trial, and to examine its preliminary effect on chronic psychosocial stress in a nonclinical population.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+<span style="font-size:0.9em;">
+I'm also an advocate for open science practices, reproducibility, and for taking a confidence interval approach to statistical inference. I'm proficient in R and have published my own [R statistical package on GitHub](https://github.com/gprochilo/aha). I'm also interested in post-publication peer review, and have [published work](https://psyarxiv.com/hv3rm) evaluating the use (and misuse) of statistics in organizational neuroscience. [Check out my CV](https://www.guyprochilo.com/files/cv.pdf) for more on my work. 
+
+<span style="font-size:0.9em;">
+Want to get in contact? Feel free to [message me on Twitter](https://twitter.com/messages/compose?recipient_id=1119310284) or [send me an email](mailto:guy.prochilo@gmail.com).
+</span>
