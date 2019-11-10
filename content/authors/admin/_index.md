@@ -27,9 +27,9 @@ bio: My research interests include distributed robotics, mobile computing and pr
 
 education:
   courses:
-  - course: PhD in Psychology
-    institution: University of Melbourne
-    year: Expected 2020
+  - course: PhD in Psychology (expected 2020)
+    institution: University of Melbourne 
+    year: 
   - course: Bachelor of Science (Hons.)
     institution: University of Queensland
     year: 2013
