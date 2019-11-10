@@ -29,7 +29,7 @@ education:
   courses:
   - course: PhD in Psychology
     institution: University of Melbourne
-    year: 2015
+    year: Expected 2020
   - course: Bachelor of Science (Hons.)
     institution: University of Queensland
     year: 2013
