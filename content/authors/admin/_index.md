@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Guy Prochilo
+name: Guy A. Prochilo
 
 # Username (this should match the folder name)
 authors:
@@ -10,12 +10,12 @@ authors:
 superuser: true
 
 # Role/position
-role: PhD (expected 2020)
+role: Associate Lecturer
 
 # Organizations/Affiliations
 organizations:
-- name: University of Melbourne
-  url: "https://www.unimelb.edu.au/"
+- name: ISN Psychology
+  url: "https://isn.edu.au/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
@@ -27,13 +27,13 @@ bio:
 
 education:
   courses:
-  - course: PhD in Psychology (expected 2020)
+  - course: PhD (Graduand) in Psychology
     institution: University of Melbourne 
-    year: 
-  - course: Bachelor of Science (Hons.)
+    year: 2020
+  - course: Bachelor of Science (Hons. Psychology)
     institution: University of Queensland
     year: 2013
-  - course: Bachelor of Business Management
+  - course: Bachelor of Business Management (Economics)
     institution: University of Queensland
     year: 2012
 
@@ -70,9 +70,6 @@ user_groups:
 - Visitors
 ---
 
-<p style="font-size:18px;"> Hi – I’m Guy. My current research focus is a <a href="https://psyarxiv.com/8w45k" target="_blank">pilot and feasibility trial</a> of an aerobic exercise and mindfulness-based intervention, where each training modality is completed concurrently. The goal of this project is to assess the feasibility of a definitive trial, and to examine its preliminary effect on chronic psychosocial stress in a nonclinical population.</p>  
+Guy A. Prochilo is an Associate Lecturer in research methods and supervises honours students at ISN Psychology. He has a keen interest in quantitative research methods and trial methodology, is [proficient in R statistical software](https://github.com/gprochilo/aha), and is an advocate for open science practices and research reproducibility. In this capacity, he is also the Australian and New Zealand Open Research Network [(ANZORN)](https://osf.io/be7yt/wiki/home/) representative at ISN Psychology. He has additionally published work evaluating the [use (and misuse) of statistics](https://open.lnu.se/index.php/metapsychology/article/view/935) in organizational neuroscience. 
 
-<p style="font-size:18px;"> I'm also an advocate for open science practices, reproducibility, and for taking a confidence interval approach to statistical inference. I'm proficient in R and have published an <a href="https://github.com/gprochilo/aha" target="_blank">R statistical package on GitHub</a>. I'm also interested in post-publication peer review, and have <a href="https://open.lnu.se/index.php/metapsychology/article/view/935" target="_blank">published work</a> evaluating the use (and misuse) of statistics in organizational neuroscience.</p> 
-
-<p style="font-size:18px;"> Want to get in contact? Feel free to <a href="https://twitter.com/messages/compose?recipient_id=1119310284" target="_blank">message me on Twitter</a> or <a href="mailto:guy.prochilo@gmail.com">send me an email</a>.</p>
-
+Want to get in contact? Feel free to [send a direct message on Twitter](https://twitter.com/messages/compose?recipient_id=1119310284) or get in touch via [email](mailto:guy.prochilo@gmail.com).
