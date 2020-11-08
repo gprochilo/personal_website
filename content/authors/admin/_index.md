@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Guy A. Prochilo
+name: Dr. Guy Prochilo
 
 # Username (this should match the folder name)
 authors:
@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Associate Lecturer
+role: Associate Lecturer and Unit Coordinator
 
 # Organizations/Affiliations
 organizations:
@@ -27,7 +27,7 @@ bio:
 
 education:
   courses:
-  - course: PhD (Graduand) in Psychology
+  - course: PhD in Psychology
     institution: University of Melbourne 
     year: 2020
   - course: Bachelor of Science (Hons. Psychology)
@@ -70,6 +70,6 @@ user_groups:
 - Visitors
 ---
 
-Guy A. Prochilo is an Associate Lecturer in research methods and supervises honours students at ISN Psychology. He has a keen interest in quantitative research methods and trial methodology, is [proficient in R statistical software](https://github.com/gprochilo/aha), and is an advocate for open science practices and research reproducibility. In this capacity, he is also the Australian and New Zealand Open Research Network [(ANZORN)](https://osf.io/be7yt/wiki/home/) representative at ISN Psychology. He has additionally published work evaluating the [use (and misuse) of statistics](https://open.lnu.se/index.php/metapsychology/article/view/935) in organizational neuroscience. 
+Dr. Guy Prochilo is an Associate Lecturer in research methods and supervises honours students at ISN Psychology. He has a keen interest in quantitative research methods and trial methodology, is [proficient in R statistical software](https://github.com/gprochilo/aha), and is an advocate for open science practices and research reproducibility. In this capacity, he is also the Australian and New Zealand Open Research Network [(ANZORN)](https://osf.io/be7yt/wiki/home/) representative at ISN Psychology. He has additionally published work evaluating the [use (and misuse) of statistics](https://open.lnu.se/index.php/metapsychology/article/view/935) in organizational neuroscience. 
 
 Want to get in contact? Feel free to [send a direct message on Twitter](https://twitter.com/messages/compose?recipient_id=1119310284) or get in touch via [email](mailto:guy.prochilo@gmail.com).
