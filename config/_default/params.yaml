@@ -6,7 +6,7 @@
 # Appearance
 
 theme: minimal
-day_night: true
+day_night: false
 font: 'OpenSans'
 font_size: L
 
@@ -20,7 +20,7 @@ twitter: 'GuyProchilo'
 
 # Contact (edit or remove options as required)
 
-email: guy.prochilo@gmail.com
+email: gprochilo@isn.edu.au
 # phone: 888 888 88 88
 address:
   street: ISN Psychology Pty Ltd, 443 Upper Heidelberg Rd
