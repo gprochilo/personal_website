@@ -26,7 +26,7 @@ role: Lecturer of Research Methods
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:guy.prochilo@gmail.com
+  link: mailto:gprochilo@isn.edu.au
 - display:
     header: true
   icon: twitter
@@ -48,8 +48,7 @@ title: Dr. Guy Prochilo
 
 <br>
 
-I am a lecturer of research methods in psychology and a researcher in the Cognitive Behaviour Therapy Research Unit at ISN Psychology (Melbourne, Australia). My current research focuses on evaluating the effectiveness of electronic health (eHealth) interventions using trial methods. I have also [published work](https://open.lnu.se/index.php/metapsychology/article/view/935) evaluating the use (and misuse) of statistics in organizational neuroscience. More generally, I have a keen interest in open science, research reproducibility, and taking a frequentist approach to inference with a focus on confidence interval estimation. 
+I am a lecturer of research methods in psychology at [ISN Psychology](https://isn.edu.au/) and a researcher in the Cognitive Behaviour Therapy Research Unit at [ISN Innovations](https://isn.edu.au/research-2/) (Melbourne, Australia). My current research focuses on evaluating the effectiveness of electronic health (eHealth) interventions for reducing psychological stress and improving wellbeing using randomized controlled trial methodologies.
 
-Want to get in contact? Feel free to send me a direct message on [Twitter](https://twitter.com/GuyProchilo) or get in touch via [email](mailto:guy.prochilo@gmail.com).
-
+Want to get in contact? Feel free to send me a direct message on [Twitter](https://twitter.com/GuyProchilo) or get in touch via [email](mailto:gprochilo@isn.edu.au).
 
