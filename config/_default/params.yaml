@@ -21,7 +21,7 @@ twitter: 'GuyProchilo'
 # Contact (edit or remove options as required)
 
 email: gprochilo@isn.edu.au
-# phone: 888 888 88 88
+phone:
 address:
   street: ISN Psychology Pty Ltd, 443 Upper Heidelberg Rd
   city: Ivanhoe
@@ -29,17 +29,17 @@ address:
   postcode: '3081'
   country: Australia
   country_code: AU
-# coordinates:
-#   latitude: '37.4275'
-#   longitude: '-122.1697'
-# directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+coordinates:
+  latitude: "-37.75516596552675"
+  longitude: "145.05577695780732"
+directions:
 office_hours:
-  - 'Monday to Friday: 9:00 am to 5:00 pm'
-# appointment_url: 'https://calendly.com'
+  - 'Monday to Friday: 9:00 am to 5:00 pm (Australian Eastern Daylight Time)'
+appointment_url:
 contact_links:
   - icon: twitter
     icon_pack: fab
-    name: DM Me
+    name: Direct Message me on Twitter
     link: 'https://twitter.com/GuyProchilo'
   # - icon: skype
   #   icon_pack: fab
