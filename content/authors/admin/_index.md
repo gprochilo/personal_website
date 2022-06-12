@@ -46,7 +46,6 @@ superuser: true
 title: Dr. Guy Prochilo
 ---
 
-<br>
 
 I am a lecturer of research methods in psychology, researcher, and Honours Course Coordinator at the [Institute for Social Neuroscience](https://isn.edu.au/) (ISN Psychology, Melbourne, Australia). My current research is clinically focused and involves evaluating electronically-delivered health (eHealth) interventions and their effect on psychological stress and wellbeing through randomized controlled trial designs.
 
