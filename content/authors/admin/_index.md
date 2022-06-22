@@ -43,7 +43,7 @@ social:
   icon_pack: fab
   link: https://www.linkedin.com/in/guyprochilo/
 superuser: true
-title: Dr. Guy Prochilo
+title: Dr. Guy Prochilo 
 ---
 
 
